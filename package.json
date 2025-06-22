@@ -1,0 +1,19 @@
+{
+  "name": "dio_mobile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themilho/studies-dio-mobile.git"
+  },
+  "author": "emiliano-dantas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/themilho/studies-dio-mobile/issues"
+  },
+  "homepage": "https://github.com/themilho/studies-dio-mobile#readme",
+  "description": ""
+}
